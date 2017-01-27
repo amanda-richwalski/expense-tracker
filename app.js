@@ -1,0 +1,1 @@
+var app = angular.mode('app', ['ngRoute', 'firebase']);
